@@ -10,9 +10,5 @@ watch vipstream.tv from terminal but in zig
 
 ## install [zig language compiler](https://ziglang.org/learn/getting-started/#installing-zig)
 
-## build the program
-`zig build`
-
-### Go to the program `cd zig-out/bin/`
-
-### Run the program `./zvip`
+## build and run the program
+`zig build run`
